@@ -2,7 +2,6 @@
 ![Marketplace 1](https://user-images.githubusercontent.com/3207620/158163601-53a64a3c-77e5-4bf9-8828-e465a8e60376.PNG)
 
 # NFT-Marketplace (Hardhat-Solidity-React)
-This app was coded by following a tutorial from Dapp University and was developed for educational purposes.
 
 This app lets you connect your MetaMask wallet and create & list NFTs on an Ethereum-based blockchain. You can purchase NFTs and list them. Gas fees apply.
 
